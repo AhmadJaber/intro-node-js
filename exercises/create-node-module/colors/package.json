@@ -1,0 +1,16 @@
+{
+  "name": "colors",
+  "version": "1.0.0",
+  "description": "first node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "module",
+    "node"
+  ],
+  "author": "Jaber <jaber131706@gmail.com> (https://ahmadjaber@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {}
+}
